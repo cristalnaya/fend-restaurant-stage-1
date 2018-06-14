@@ -793,4 +793,8 @@ td {
         height: calc(40% - 60px);
         width: calc(42% - 50px);
     }
+
+    .filter-options select {
+        width: 21%;
+    }
 }
